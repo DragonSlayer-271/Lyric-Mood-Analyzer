@@ -1,7 +1,7 @@
 # Lyric-Mood-Analyzer
 
 ### Team Members
-* Stella Asanova '@sasanova3432'
+* Stella Asanova `@sasanova3432`
 * Jillienne Lapid `@jilliennelapid`
 * Rose Montgomery
 * Brian Tran
